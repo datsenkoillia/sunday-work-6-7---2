@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sunday-work-6-7---2/static/css/main.7acaea2f.css",
-    "main.js": "/sunday-work-6-7---2/static/js/main.974d4cc8.js",
+    "main.js": "/sunday-work-6-7---2/static/js/main.5c9ac09f.js",
     "index.html": "/sunday-work-6-7---2/index.html",
     "main.7acaea2f.css.map": "/sunday-work-6-7---2/static/css/main.7acaea2f.css.map",
-    "main.974d4cc8.js.map": "/sunday-work-6-7---2/static/js/main.974d4cc8.js.map"
+    "main.5c9ac09f.js.map": "/sunday-work-6-7---2/static/js/main.5c9ac09f.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.974d4cc8.js"
+    "static/js/main.5c9ac09f.js"
   ]
 }
